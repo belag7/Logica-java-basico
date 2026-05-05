@@ -1,4 +1,4 @@
-# 🚀 Jornada Java: De Professora a Engenheira de Software
+# 🚀 Jornada Java/Engenheira de Software
 
 Bem-vindo ao meu repositório de estudos! Aqui documento minha evolução na programação Java, focando na transição de carreira para Engenharia de Software.
 
